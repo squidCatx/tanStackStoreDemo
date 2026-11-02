@@ -1,0 +1,16 @@
+allowBuilds:
+  '@google/genai': false
+  esbuild: false
+  protobufjs: false
+minimumReleaseAgeExclude:
+  - '@tanstack/ai-client@1.0.1'
+  - '@tanstack/ai-gemini@1.0.1'
+  - '@tanstack/ai-ollama@1.0.1'
+  - '@tanstack/ai-openai@1.0.1'
+  - '@tanstack/ai-react@1.0.1'
+  - '@tanstack/ai@1.0.1'
+  - '@tanstack/devtools-bundler-core@0.1.4'
+  - '@tanstack/devtools-ui@0.7.2'
+  - '@tanstack/devtools-vite@0.8.6'
+  - '@tanstack/devtools@0.16.0'
+  - '@tanstack/react-devtools@0.10.14'
